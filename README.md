@@ -58,4 +58,17 @@ The folder paths can be modified in `postprocess.py`.
 
 After postprocessing, [online evaluation](https://ipp.cbica.upenn.edu/#BraTS20eval_validationPhase) is performed. Output folder containing 125 segmentations is required to upload to the site for evaluation.
 
+If you got a chance to use our code, you can cite our paper with the following information:
+```
+@inproceedings{wang2022uncertainty,
+  title={Uncertainty-aware multi-modal learning via cross-modal random network prediction},
+  author={Wang, Hu and Zhang, Jianpeng and Chen, Yuanhong and Ma, Congbo and Avery, Jodie and Hull, Louise and Carneiro, Gustavo},
+  booktitle={European Conference on Computer Vision},
+  pages={200--217},
+  year={2022},
+  organization={Springer}
+}
+```
+
+
 Enjoy!!
